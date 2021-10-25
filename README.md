@@ -1,16 +1,10 @@
 # registration_screen
 
-flutter task given by Ray Media Group.Inc
+## flutter task given by Ray Media Group.Inc
 
-## Getting Started
+## Images:
 
-This project is a starting point for a Flutter application.
+![Screenshot_1635160746](https://user-images.githubusercontent.com/75219867/138686379-ed99f4ce-f01e-41f2-b7c2-915e062c0da4.png)
+![Screenshot_1635160752](https://user-images.githubusercontent.com/75219867/138686382-dc7be5cc-5dae-4650-8348-c4bdf5adf511.png)
+![Screenshot_1635160757](https://user-images.githubusercontent.com/75219867/138686384-f3b65694-a529-41d0-bb6c-ec772cde81dc.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
